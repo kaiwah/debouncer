@@ -1,0 +1,14 @@
+{
+  "name": "debouncer",
+  "version": "1.0.0",
+  "description": "debouncer class for delaying executing sequential functions",
+  "main": "debouncer.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/unit.js"
+  },
+  "author": "@kaiwah",
+  "license": "ISC"
+}
