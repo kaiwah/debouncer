@@ -6,8 +6,8 @@
 Debouncer is a class that allows for functions to run on the _tailend_ of the calls such that it limits the amount of successive calls preventing too many unnecessary calls at once. 
 
 When to Use Examples:
-A. Handling Mouse Events
-B. Calling Hydration Events
+1. Handling Mouse Events
+2. Calling Hydration Events Based on Promises
 
 ### How to Use
 ```
